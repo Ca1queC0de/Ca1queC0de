@@ -6,7 +6,7 @@
 Sinta-se à vontade para explorar meus repositórios, onde busco resolver problemas reais com soluções criativas. Se você tiver perguntas, sugestões ou apenas quiser bater um papo sobre tecnologia, estou à disposição! Vamos transformar ideias em realidade juntos. 🚀</br>
 
 <br>
-- 🔭 Atualmente, estou trabalhando nesse projeto: [javaLearning2024] (https://github.com/Ca1queC0de/javaLearning2024)
+- 🤓 Atualmente, estou trabalhando nesse projeto: [javaLearning2024] (https://github.com/Ca1queC0de/javaLearning2024)
 </br>
 
 <h3 align="center">Estou aprendendo essas linguagens:</h3>
@@ -20,4 +20,4 @@ Sinta-se à vontade para explorar meus repositórios, onde busco resolver proble
 <p align = "center "><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ca1quec0de&" alt="ca1quec0de" /></p>
 </br>
 
-"Não se deve julgar uma nova ideia por seus resultados imediatos" Nikola Tesla
+<h3 align="center">"Não se deve julgar uma nova ideia por seus resultados imediatos" Nikola Tesla</h3>
