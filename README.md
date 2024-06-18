@@ -17,7 +17,6 @@ Sinta-se à vontade para explorar meus repositórios, onde busco resolver proble
 
 <p align = "center "> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ca1quec0de&show_icons=true&locale=en" alt="ca1quec0de" /></p>
 
-<p align = "center "><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ca1quec0de&" alt="ca1quec0de" /></p>
 </br>
 
 <h3 align="center">"Não se deve julgar uma nova ideia por seus resultados imediatos" Nikola Tesla</h3>
