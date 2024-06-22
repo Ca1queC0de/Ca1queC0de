@@ -19,4 +19,4 @@ Sinta-se à vontade para explorar meus repositórios, onde busco resolver proble
 
 </br>
 
-<h3 align="center">"Não se deve julgar uma nova ideia por seus resultados imediatos" Nikola Tesla</h3>
+<h3 align="center">"Não se deve julgar uma nova ideia por seus resultados imediatos" Nikola Tesla ⚡</h3>
