@@ -8,7 +8,7 @@ Sinta-se à vontade para explorar meus repositórios, onde busco resolver proble
 <br>
 - 🤓 Atualmente, estou trabalhando nesse projeto: [javaLearning2024] (https://github.com/Ca1queC0de/javaLearning2024)
 <br>
-- 📑 No momento, estou estudando sobre programação orientada a objetos (POO)
+- 📑 No momento, estou estudando POO
 </br>
 
 <h3 align="center">Estou aprendendo:</h3>
