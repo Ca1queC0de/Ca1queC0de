@@ -6,7 +6,7 @@
 Sinta-se à vontade para explorar meus repositórios, onde busco mostrar meu desenvolvimento nos estudos da programação. Se você tiver perguntas, sugestões ou apenas quiser bater um papo sobre tecnologia, estou à disposição! Vamos transformar ideias em realidade. 🚀</br>
 
 <br>
-- 🤓 Atualmente, estou trabalhando nesse projeto: [javaLearning2024] (https://github.com/Ca1queC0de/javaLearning2024)
+- 🤓 Atualmente, estou trabalhando nesse repositório: [javaLearning2024] (https://github.com/Ca1queC0de/javaLearning2024)
 <br>
 - 📑 No momento, estou estudando POO - ArrayList
 </br>
