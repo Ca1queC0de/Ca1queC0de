@@ -8,7 +8,7 @@ Sinta-se à vontade para explorar meus repositórios, onde busco mostrar meu des
 <br>
 - 🤓 Atualmente, estou trabalhando nesse repositório: [javaLearning2024] (https://github.com/Ca1queC0de/javaLearning2024)
 <br>
-- 📑 No momento, estou estudando POO - ArrayList
+- 📑 No momento, estou estudando POO - Polimorfismo
 </br>
 
 <h3 align="center">Estou aprendendo:</h3>
