@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Mundo!<br>Eu sou Caíque</h1>
 <h3 align="center">Um jovem na busca pelo aprimoramento e aprendizagem dos conceitos da programação</h3>
 
-<br>Estou estudando Java de forma autodidata. Além da parte prática, valorizo a colaboração e a troca de conhecimento. Acredito que as melhores ideias surgem quando trabalhamos juntos.
+<br>Eu estudo Java de forma autodidata através de conteúdos da Internet. Além da prática, valorizo a colaboração e a troca de conhecimento. Acredito que as melhores ideias podem surgir quando trabalhamos juntos.
 
 Sinta-se à vontade para explorar meus repositórios, onde busco mostrar meu desenvolvimento nos estudos da programação. Se você tiver perguntas, sugestões ou apenas quiser bater um papo sobre tecnologia, estou à disposição! Vamos transformar ideias em realidade. 🚀</br>
 
@@ -9,6 +9,7 @@ Sinta-se à vontade para explorar meus repositórios, onde busco mostrar meu des
 - 🤓 Atualmente, estou trabalhando nesse repositório: [javaLearning2024] (https://github.com/Ca1queC0de/javaLearning2024)
 <br>
 - 📑 No momento, estou estudando POO - Polimorfismo
+- Nessa semana pretendo finalizar minha playlist de estudos sobre POO
 </br>
 
 <h3 align="center">Estou aprendendo:</h3>
