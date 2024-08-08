@@ -6,10 +6,10 @@
 Sinta-se à vontade para explorar meus repositórios, onde busco mostrar meu desenvolvimento nos estudos da programação. Se você tiver perguntas, sugestões ou apenas quiser bater um papo sobre tecnologia, estou à disposição! Vamos transformar ideias em realidade. 🚀</br>
 
 <br>
-- 🤓 Atualmente, estou trabalhando nesse repositório: [javaLearning2024] (https://github.com/Ca1queC0de/javaLearning2024)
+- 🤓 Atualmente, estou trabalhando nesse repositório: [GerenciamentoDeBiblioteca] (https://github.com/Ca1queC0de/GerenciamentoDeBiblioteca)
 <br>
-- 📑 No momento, estou estudando POO - Polimorfismo
-- Nessa semana pretendo finalizar minha playlist de estudos sobre POO
+- 📑 No momento, estou estudando ArrayList
+- Nessa semana pretendo finalizar o projeto da biblioteca (Confira o 1º repositório fixado)
 </br>
 
 <h3 align="center">Estou aprendendo:</h3>
