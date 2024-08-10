@@ -6,7 +6,7 @@ Sinta-se à vontade para explorar meus repositórios, onde busco mostrar meu des
 <br>
 - 🤓 Repositório mais recente: [JogoDaForca] (https://github.com/Ca1queC0de/JogoDaForca/blob/main/JogoDaForca.java)
 <br>
-- 📑 No momento, estou buscando entender ArrayList
+- 📑 No momento, estou estudando ArrayList
 </br>
 
 <h3 align="center">Estou estudando:</h3>
