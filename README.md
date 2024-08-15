@@ -1,5 +1,4 @@
-<h1 align="center">Olá, Mundo!<br>Eu sou Caíque</h1>
-<h3 align="center">Estou aprimorando diariamente!</h3>
+<h2 align="center">Olá, Mundo! Eu sou Caíque.</h2>
 
 Sinta-se à vontade para explorar meus repositórios, onde busco mostrar meu desenvolvimento nos estudos da programação. Se você tiver perguntas, sugestões ou apenas quiser bater um papo sobre tecnologia, estou à disposição! Vamos transformar ideias em realidade. 🚀</br>
 
