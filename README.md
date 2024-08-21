@@ -13,3 +13,5 @@ Sinta-se à vontade para explorar meus repositórios, onde busco mostrar meu des
 </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> </p>
 
 <h3 align="center">"Não se deve julgar uma nova ideia por seus resultados imediatos" Nikola Tesla ⚡</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ca1queC0de&color=green" alt="Profile views" /></p>
