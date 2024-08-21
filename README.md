@@ -14,4 +14,4 @@ Sinta-se à vontade para explorar meus repositórios, onde busco mostrar meu des
 
 <h3 align="center">"Não se deve julgar uma nova ideia por seus resultados imediatos" Nikola Tesla ⚡</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ca1queC0de&color=green" alt="Profile views" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ca1queC0de&color=blue" alt="Profile views" /></p>
